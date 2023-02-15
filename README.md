@@ -8,8 +8,6 @@ I have some research experience, including a publication in the Journal of Commu
 
 I am currently looking for a Ph.D. post in the field of AI/DL/ML, especially in Transformers, Universal Language Modeling, Cross-modal Learning, and other Deep Learning fields with real-world interests. I am self-motivated and passionate. Feel free to contact me directly if you are looking for perspective students with industrial backgrounds and good engineering skills.
 
-Please read my [CV](./CV-Cong-Feng.pdf) for more details. Also, please feel free to browse through my repositories.
-
 Please contact me through the following emails:
 
 - cgsdfc@126.com
